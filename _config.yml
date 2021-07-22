@@ -3,7 +3,7 @@
 
 title: The Ops Shop
 url: "https://theops.shop"
-baseurl: "https://theops.shop"
+baseurl: "https://theops.shop/"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
